@@ -6,7 +6,7 @@ Final-year BSc student with hands-on experience in **Data Analytics, Business In
 
 📍 Tunis, Tunisia · 🗣️ French (native) · Arabic (native) · English (C1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/eya-bibani/)
 [![Email](https://img.shields.io/badge/Email-bibanieya1%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:bibanieya1@gmail.com)
 
 ---
